@@ -9,15 +9,20 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 I work with a wide range of programming languages and tools. Here are the ones I am most comfortable with:
 
 - **Frontend**: HTML, CSS, JavaScript
-- **Backend**: PHP, C++
-- **Programming**: C#, 
+- ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
+- **Backend**: PHP, C++ ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+- **Programming**: C#, ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 - **Version Control**: Github
+
 
 ---
 
 ## 🔥 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shadoww111&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
 ---
 
