@@ -1,20 +1,23 @@
-# Hi, I'm [Your Name]! 👋
+# Hi, I'm Shadow! 👋
 
 Welcome to my GitHub profile! I'm a passionate developer with a focus on building impactful web applications and software solutions. Below, you can find more about the languages and tools I work with.
 
 ## 🔧 Technologies & Languages I Work With
 
 ### Web Development:
-- **HTML5**: Markup and structure of web pages
-- **CSS3**: Styling web pages with modern design practices (Flexbox, Grid, etc.)
-- **JavaScript (JS)**: Adding interactivity and dynamic features to websites
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge" />
+</p>
 
 ### Backend Development:
-- **PHP**: Building dynamic websites and applications
-- **C++**: System-level programming, game development, and performance-critical applications
+<p align="center">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP Badge" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ Badge" />
+</p>
 
 ## 🌱 Currently Learning
-- Exploring frameworks like **React.js** and **Node.js** to enhance my full-stack development skills.
 - Deepening my knowledge of **Data Structures & Algorithms** in C++.
 
 ## 📈 GitHub Stats
