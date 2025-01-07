@@ -1,48 +1,33 @@
-## Hi there 👋
+# Hi, I'm [Your Name]! 👋
 
-I'm using HTML, CSS, and JavaScript to make websites dance. 🕺🏽
+Welcome to my GitHub profile! I'm a passionate developer with a focus on building impactful web applications and software solutions. Below, you can find more about the languages and tools I work with.
 
-**I love working with**
+## 🔧 Technologies & Languages I Work With
 
-<div display="flex">
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white" alt="Gatsby"/>
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS"/>
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
-</div>
+### Web Development:
+- **HTML5**: Markup and structure of web pages
+- **CSS3**: Styling web pages with modern design practices (Flexbox, Grid, etc.)
+- **JavaScript (JS)**: Adding interactivity and dynamic features to websites
 
-### 🔭 I’m working on
+### Backend Development:
+- **PHP**: Building dynamic websites and applications
+- **C++**: System-level programming, game development, and performance-critical applications
 
-- Projects for freelance clients.
-- Growing [Upbeat Code](https://www.upbeatcode.com) to 100k/month visitors.
+## 🌱 Currently Learning
+- Exploring frameworks like **React.js** and **Node.js** to enhance my full-stack development skills.
+- Deepening my knowledge of **Data Structures & Algorithms** in C++.
 
-### 🌱 I’m learning
+## 📈 GitHub Stats
 
-<div display="flex">
-  <img src="https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white" alt="Hyperledger"/>
-  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" alt="Ethereum"/>
-  <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Adobe Illustrator"/>
-</div>
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&hide_title=true&count_private=true&theme=tokyonight)
 
-### 🤔 I’m looking for help with
+## 📦 Some of My Projects
 
-- Integrating AI models to web applications
+- WalletGuard: 
+- InfinityWings:
+- Gameboy: 
 
-### 📫 How to reach me
+## 🤝 Let's Connect
+Feel free to reach out to me if you'd like to collaborate or chat about technology!
 
-<div display="flex">
-  <a href="https://www.linkedin.com/in/codewithbernard/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/CodeWithBernard">
-    <img src="https://img.shields.io/badge/codewithbernard-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://medium.com/@bernardbad">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
-  </a>
-</div>
-
-### ⚡ Fun fact
-
-I'm definitely not a cat person.
+Looking forward to connecting with you! 🚀
