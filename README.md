@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a focus on buildin
 ## 📈 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&hide_title=true&count_private=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/Shadoww111/Shadoww111/blob/main/README.md))
 
 ## 📦 Some of My Projects
 
