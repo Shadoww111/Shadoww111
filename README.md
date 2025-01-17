@@ -29,6 +29,7 @@ I work with a wide range of programming languages and tools. Here are the ones I
 - Wallet Guard
 - Infinity Wings
 - Gameboy
+- Tictactoe (GaloGame)
 
 ---
 
