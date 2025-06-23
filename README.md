@@ -52,9 +52,3 @@ I work with a wide range of programming languages and tools. Here are the ones I
 When I'm not coding, you can find me exploring new technologies, contributing to open source, or working on personal creative projects. I also love playing games.
 
 ---
-
-## 📄 Certifications
-
-- [Certified in Cisco CCNA]([https://www.certification-link.com](https://www.cisco.com/site/us/en/learn/training-certifications/certifications/enterprise/ccna/index.html))
-
----
