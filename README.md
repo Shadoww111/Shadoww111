@@ -41,22 +41,38 @@ Sou um desenvolvedor apaixonado por criar software e resolver problemas através
 
 <div align="center">
   
-  <a href="https://github.com/Shadoww111">
-    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Shadoww111&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
-    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Shadoww111&layout=compact&langs_count=7&theme=radical&hide_border=true"/>
-  </a>
+  ### 🔥 Streak Stats
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shadoww111&theme=radical&hide_border=true" alt="GitHub Streak"/>
   
 </div>
 
 <div align="center">
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shadoww111&theme=radical&hide_border=true" alt="Shadoww111's streak"/>
+  ### 📈 GitHub Stats & Top Languages
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Shadoww111&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Shadoww111&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
   
 </div>
 
 <div align="center">
   
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shadoww111&theme=radical" alt="Shadoww111's GitHub Activity Graph"/>
+  ### 🏆 GitHub Trophies
+  <img src="https://github-profile-trophy.vercel.app/?username=Shadoww111&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
+  
+</div>
+
+<div align="center">
+  
+  ### 📊 Contribution Graph
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shadoww111&theme=radical&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph"/>
+  
+</div>
+
+<div align="center">
+  
+  ### 💳 Summary Cards
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shadoww111&theme=radical" alt="Profile Summary"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shadoww111&theme=radical&utcOffset=0" alt="Productive Time"/>
   
 </div>
 
