@@ -42,15 +42,15 @@ Sou um desenvolvedor apaixonado por criar software e resolver problemas através
 <div align="center">
   
   ### 🔥 Streak Stats
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shadoww111&theme=radical&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=Shadoww111&theme=radical&hide_border=true" alt="GitHub Streak"/>
   
 </div>
 
 <div align="center">
   
   ### 📈 GitHub Stats & Top Languages
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Shadoww111&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Shadoww111&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shadoww111&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadoww111&layout=compact&langs_count=8&theme=radical&hide_border=true&cache_seconds=86400"/>
   
 </div>
 
@@ -61,18 +61,12 @@ Sou um desenvolvedor apaixonado por criar software e resolver problemas através
   
 </div>
 
-<div align="center">
-  
-  ### 📊 Contribution Graph
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shadoww111&theme=radical&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph"/>
-  
-</div>
+
 
 <div align="center">
   
   ### 💳 Summary Cards
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shadoww111&theme=radical" alt="Profile Summary"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shadoww111&theme=radical&utcOffset=0" alt="Productive Time"/>
   
 </div>
 
