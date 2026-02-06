@@ -42,31 +42,41 @@ Sou um desenvolvedor apaixonado por criar software e resolver problemas através
 <div align="center">
   
   ### 🔥 Streak Stats
-  <img src="https://streak-stats.demolab.com/?user=Shadoww111&theme=radical&hide_border=true" alt="GitHub Streak"/>
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=Shadoww111&theme=radical&hide_border=true)](https://git.io/streak-stats)
   
 </div>
 
 <div align="center">
   
   ### 📈 GitHub Stats & Top Languages
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shadoww111&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadoww111&layout=compact&langs_count=8&theme=radical&hide_border=true&cache_seconds=86400"/>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shadoww111&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadoww111&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
+  </a>
   
 </div>
 
 <div align="center">
   
   ### 🏆 GitHub Trophies
-  <img src="https://github-profile-trophy.vercel.app/?username=Shadoww111&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
+  [![trophy](https://github-profile-trophy.vercel.app/?username=Shadoww111&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
   
 </div>
 
-
+<div align="center">
+  
+  ### 📊 Contribution Graph
+  [![Shadoww111's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shadoww111&theme=radical&hide_border=true&custom_title=Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  
+</div>
 
 <div align="center">
   
   ### 💳 Summary Cards
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shadoww111&theme=radical" alt="Profile Summary"/>
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shadoww111&theme=radical)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shadoww111&theme=radical&utcOffset=0)
   
 </div>
 
