@@ -76,15 +76,14 @@ Sou um desenvolvedor apaixonado por criar software e resolver problemas através
   
   ### 💳 Summary Cards
   ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shadoww111&theme=radical)
-  
-</div>
-## Fun
-
-<picture>
+  <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shadoww111/Shadoww111/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shadoww111/Shadoww111/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Shadoww111/Shadoww111/output/pacman-contribution-graph.svg">
 </picture>
+</div>
+
+
 
 ## 🎯 Projetos em Destaque
 
