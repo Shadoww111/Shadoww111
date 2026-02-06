@@ -41,11 +41,15 @@ Sou um desenvolvedor apaixonado por criar software e resolver problemas através
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shadoww111&show_icons=true&theme=radical&hide_border=true&count_private=true)
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shadoww111&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true"/>
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shadoww111&layout=compact&theme=radical&hide_border=true)
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadoww111&layout=compact&theme=radical&hide_border=true&langs_count=8"/>
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shadoww111&theme=radical&hide_border=true)
+</div>
+
+<div align="center">
+  
+  ![GitHub Streak](https://streak-stats.demolab.com/?user=Shadoww111&theme=radical&hide_border=true)
   
 </div>
 
