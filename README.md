@@ -140,7 +140,8 @@ Quando não estou a programar, podes encontrar-me:
 <div align="center">
   
   ![Profile Views](https://komarev.com/ghpvc/?username=Shadoww111&color=blueviolet&style=for-the-badge)
-  
+  ![Profile Views](https://api.visitorbadge.io/api/VisitorHit?user=Shadoww111)
+
   **Obrigado pela visita!** 😊
   
 </div>
