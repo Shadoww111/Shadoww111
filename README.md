@@ -107,25 +107,73 @@ const shadow = {
 
 <div align="center">
 
-## Currently Working On
+## Snake Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shadoww111/Shadoww111/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shadoww111/Shadoww111/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Shadoww111/Shadoww111/output/pacman-contribution-graph-dark.svg"/>
+</picture>
 
 </div>
-
-```text
-SmartPark         ████████████████████░░░░░   80%
-Learning OpenCV   ██████████████░░░░░░░░░░░   56%
-API Development   ████████████████████████░   96%
-IoT Integration   ███████████░░░░░░░░░░░░░░   44%
-```
 
 <br/>
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/pedro.shadow.costa@gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedro.shadow.costa@gmail.com)
-[![GitHub](https://img.shields.io/badge/Shadoww111-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shadoww111)
+## Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Shadoww111&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&row=1&column=7)](https://github.com/Shadoww111)
+
+</div>
 
 <br/>
+
+<div align="center">
+
+## What Drives Me
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/48/code.png" width="36"/>
+<br/><strong>Clean Code</strong>
+<br/><sub>Escrever codigo limpo, legivel e maintainable</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/48/learning.png" width="36"/>
+<br/><strong>Aprendizagem</strong>
+<br/><sub>Sempre a explorar novas tecnologias e frameworks</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/48/iot-sensor.png" width="36"/>
+<br/><strong>IoT & Hardware</strong>
+<br/><sub>Integrar software com o mundo fisico via Arduino</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/48/artificial-intelligence.png" width="36"/>
+<br/><strong>Computer Vision</strong>
+<br/><sub>Reconhecimento automatico com OpenCV e Python</sub>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+## Connect
+
+[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedro.shadow.costa@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shadoww111)
+
+<br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote"/>
+
+<br/><br/>
 
 ![](https://komarev.com/ghpvc/?username=Shadoww111&color=1f6feb&style=flat-square&label=Profile+Views)
 
