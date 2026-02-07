@@ -107,23 +107,14 @@ const shadow = {
 
 <div align="center">
 
-## Snake Contribution Graph
+## Summary
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shadoww111/Shadoww111/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shadoww111/Shadoww111/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Shadoww111/Shadoww111/output/pacman-contribution-graph-dark.svg"/>
-</picture>
-
-</div>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shadoww111&theme=github_dark)
 
 <br/>
 
-<div align="center">
-
-## Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Shadoww111&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&row=1&column=7)](https://github.com/Shadoww111)
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shadoww111&theme=github_dark"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shadoww111&theme=github_dark&utcOffset=1"/>
 
 </div>
 
